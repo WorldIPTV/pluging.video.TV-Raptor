@@ -2,7 +2,7 @@
 <settings>
    
     <category label="33001">
-		<setting id="portal_name_1" type="text" label="30000" default="[COLOR green]Jurassic Park Gate-1[/COLOR]" />
+		<setting id="portal_name_1" type="text" label="30000" default="[COLOR blue]Jurassic Park Gate-1[/COLOR]" />
         
    	 	<setting id="portal_url_1" type="text" label="30001" default="http://portal.iptvprivateserver.tv" />
    	 	<setting label="30008" type="bool" id="custom_mac_1" default="true"/>
@@ -19,7 +19,7 @@
     </category>
     
     <category label="33001">
-		<setting id="portal_name_2" type="text" label="30000" default="[COLOR green]Jurassic Park Gate-2[/COLOR]" />
+		<setting id="portal_name_2" type="text" label="30000" default="[COLOR blue]Jurassic Park Gate-2[/COLOR]" />
    	 	<setting id="portal_url_2" type="text" label="30001" default="http://portal.iptvprivateserver.tv" />
    	 	<setting label="30008" type="bool" id="custom_mac_2" default="true"/>
    	 	<setting id="portal_mac_2" type="text" label="30002" default="00:1A:78:12:34:64" visible="eq(-2,false)" />
@@ -34,7 +34,7 @@
     </category>
     
     <category label="33001">
-		<setting id="portal_name_3" type="text" label="30000" default="[COLOR green]Jurassic Park Gate-3[/COLOR]" />
+		<setting id="portal_name_3" type="text" label="30000" default="[COLOR blue]Jurassic Park Gate-3[/COLOR]" />
    	 	<setting id="portal_url_3" type="text" label="30001" default="http://portal.iptvprivateserver.tv" />
    	 	<setting label="30008" type="bool" id="custom_mac_3" default="true"/>
    	 	<setting id="portal_mac_3" type="text" label="30002" default="00:1A:78:12:34:62" visible="eq(-2,false)" />
@@ -49,7 +49,7 @@
     </category>
 	
 	    <category label="33001">
-		<setting id="portal_name_4" type="text" label="30000" default="[COLOR green]Jurassic Park Gate-4[/COLOR]" />
+		<setting id="portal_name_4" type="text" label="30000" default="[COLOR blue]Jurassic Park Gate-4[/COLOR]" />
    	 	<setting id="portal_url_4" type="text" label="30001" default="http://portal.iptvprivateserver.tv" />
    	 	<setting label="30008" type="bool" id="custom_mac_4" default="true"/>
    	 	<setting id="portal_mac_4" type="text" label="30002" default="00:1A:78:12:34:66" visible="eq(-2,false)" />
@@ -64,7 +64,7 @@
     </category>
 	
 	    <category label="33001">
-		<setting id="portal_name_5" type="text" label="30000" default="[COLOR green]Jurassic Park Gate-5[/COLOR]" />
+		<setting id="portal_name_5" type="text" label="30000" default="[COLOR blue]Jurassic Park Gate-5[/COLOR]" />
    	 	<setting id="portal_url_5" type="text" label="30001" default="http://portal.iptvprivateserver.tv" />
    	 	<setting label="30008" type="bool" id="custom_mac_5" default="true"/>
    	 	<setting id="portal_mac_5" type="text" label="30002" default="00:1A:78:12:34:64" visible="eq(-2,false)" />
